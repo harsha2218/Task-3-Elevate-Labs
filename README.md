@@ -6,7 +6,7 @@ This project analyzes sales performance using the **Superstore Sales Dataset** a
 
 ## 📂 Project Files  
 - Dataset → `SuperStore_Sales_Dataset.csv`  
-- Dashboard (Image) → `financial sales.pbix`  
+- Dashboard  → `financial sales.pbix`  
 - Summary Presentation → `Financial_sales_summary.pptx`  
 
 ---
